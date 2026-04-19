@@ -13,7 +13,16 @@
   --animate-slideRightToLeft: slideRightToLeft 0.8s ease-out forwards;
   --animate-slideLeftToRight: slideLeftToRight 0.8s ease-out forwards;
   --animate-float: float 1s ease-in-out;
+  --animate-ping-once: ping 0.4s cubic-bezier(0, 0, 1, 1) 1;
 }
+
+@keyframes ping-once {
+  75%, 100% {
+    transform: scale(2);
+    opacity: 0;
+  }
+}
+
 
 @keyframes slideUp {
   0% {
