@@ -33,7 +33,7 @@ export default function HomePage() {
         return () => observer.disconnect();
     }, []);
 
-    const [open, setOpen] = useState(true)
+    const [open, setOpen] = useState(false)
     const menuBar = () => {
         setOpen(prev => !prev)
     }
