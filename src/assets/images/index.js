@@ -21,12 +21,13 @@ import astronet from "./Pictures/astronet.png"
 import circleImage from "./Pictures/circlePicture.png"
 import resumedDoc from "../documents/THAMILTHENNARASU.pdf"
 import logoAnimation from "../animation/T.webm"
+import p5 from "./Pictures/p5.png"
 export {
     logoAnimation,
     astronet,
     resumedDoc,
     gmail, linkedIn, resume, gitHub,
-    p1, p2, p3, p4,
+    p1, p2, p3, p4,p5,
     css,
     vscode,
     openSource,
@@ -38,5 +39,6 @@ export {
     Spring,
     JsLogo,
     circleImage,
-    JavaLogo
+    JavaLogo,
+    
 }
