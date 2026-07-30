@@ -7,7 +7,7 @@ export const ProjectData = [
         "url": "https://cinihub.netlify.app/"
     }, {
         "projectTitle": "Employee Management System", "techStacks": [ReactLogo, TailwindCss, JsLogo, Spring, MySql, Git], "projectLogo": p2, "description":
-            "Supports employee CRUD, salary updates, and attendance tracking with secure access to personal data.", "url": "https://github.com/Thamil001/Employee-Management-System/tree/main/Employee-Management-System"
+            "Supports employee CRUD, salary updates, and attendance tracking with secure access to personal data.", "url": "https://github.com/Thamil001/employee-management-system"
     }, {
         "projectTitle": "React Development Folder Structure", "techStacks": [openSource, Ts, vscode, Git], "projectLogo": p3, "description":
             "VS Code extension that hides non-essential files and shows only important React folders.Improves productivity by focusing on core directories like src and public across React setups",
@@ -15,11 +15,11 @@ export const ProjectData = [
         "url": "https://open-vsx.org/extension/ThamilthennarasuM/rdfs"
     },
     {
-        "projectTitle": "RepoPulz",
-        "techStacks": [ReactLogo, TailwindCss,JsLogo,gitHub],
+        "projectTitle": "Shopease Ecommerce ",
+        "techStacks": [ReactLogo, TailwindCss,JsLogo,gitHub,Git],
         "projectLogo": p5,
-        "description": "A real-time GitHub Issue Tracker Dashboard that helps developers track, filter, and manage repository issues efficiently. It provides a centralized view of GitHub issues with features like authentication, real-time filtering, and protected routes, improving developer productivity and workflow clarity.",
-        "url": "https://repopulz.netlify.app/"
+        "description": "Applied JavaScript DOM manipulation and event handling to create interactive frontend components.Organized the project using reusable UI components and structured frontend code for maintainability",
+        "url": "https://github.com/Thamil001/shopease-ecommerce"
     }
 ]
 
